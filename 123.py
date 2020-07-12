@@ -45,3 +45,4 @@ if(jeden !=a and dwa !=a):
 
 
 print(jeden, dwa, trzy)
+print("siema")
